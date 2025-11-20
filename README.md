@@ -270,8 +270,3 @@ This project is for academic and research use. Please check the original Nucleot
 ---
 
 **Note:** The `plant_best_epoch66_auc0.9588.pt` checkpoint file is available for download.
-
-**For questions and support:**
-- 📧 Email: your-email@domain.com
-- 💬 Issues: GitHub Issues
-- 🐛 Bug Reports: Please include your plant species and sequence information
