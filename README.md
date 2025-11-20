@@ -1,4 +1,4 @@
-# Plant Nucleotide Transformer Fine-tuning and Prediction
+# Off-target-Predict-palnt-model
 
 A specialized PyTorch implementation for fine-tuning the Nucleotide Transformer model on plant genomic sequence classification tasks, with local prediction capabilities optimized for plant biology research.
 
@@ -23,8 +23,8 @@ A specialized PyTorch implementation for fine-tuning the Nucleotide Transformer 
 This project provides specialized tools to fine-tune the Nucleotide Transformer model for plant genomic sequence classification tasks. The model is particularly optimized for predicting functional elements in plant genomes, including promoter regions, enhancers, and regulatory motifs.
 
 **Pre-trained Model Checkpoint:**
-- `plant_best_epoch25_auc0.9682.pt` (AUC: 0.9682) - Available on [Google Drive](link-to-your-model)
-- Trained on diverse plant species including Arabidopsis, Rice, Maize, and Tomato
+- `best_epoch66_auc0.9588.pt` (AUC: 0.9588) - Available on [Google Drive](link-to-your-model)
+- Trained on diverse plant species including Arabidopsis, Rice, Maize, Tomato and so on.
 
 ## ✨ Features
 
